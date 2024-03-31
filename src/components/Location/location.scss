@@ -1,0 +1,11 @@
+.locationWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 12px;
+  background: #fafafa;
+  border-radius: 12px;
+  cursor: pointer;
+  min-width: 100px;
+}

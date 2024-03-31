@@ -1,0 +1,25 @@
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  height: 600px;
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: flex;
+  align-items: center;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #ed6b00 !important;
+}
+.swiper-pagination-bullet {
+  border: 2px solid #fff;
+  background-color: #fff;
+  width: 12px;
+  height: 12px;
+  float: inline-end;
+}
